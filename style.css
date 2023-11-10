@@ -55,7 +55,7 @@ main {
 
 .bakgrundsbild {
     background-size: cover;
-    height: 90vh;
+    height: 70vh;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -145,4 +145,5 @@ footer>article {
 
 footer>article>ul {
     list-style-type: none;
+    margin: 3rem;
 }
